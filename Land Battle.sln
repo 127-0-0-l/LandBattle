@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Land Battle", "Land Battle\Land Battle.csproj", "{0F6C2835-67AE-4EEA-909B-597656C5B8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F6C2835-67AE-4EEA-909B-597656C5B8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F6C2835-67AE-4EEA-909B-597656C5B8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F6C2835-67AE-4EEA-909B-597656C5B8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F6C2835-67AE-4EEA-909B-597656C5B8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EF6C16E-9E85-4AE4-8999-D49C2A4F550F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,18 @@
+﻿body{
+    padding-top: 20px;
+}
+
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.divv{
+    display: flex;
+}
+
+#text{
+    margin-left: 20px;
+    margin-right: 50px;
+    display: block;
+}
